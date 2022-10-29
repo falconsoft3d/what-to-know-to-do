@@ -1,10 +1,10 @@
 # what-to-know-to-do
 
 # Crud
-## NextJS
-## ReactJS
-## ElectronJS
-## Django
+1- NextJS
+2- ReactJS
+3- ElectronJS
+4- Django
 
 # Auth
 
@@ -23,4 +23,6 @@
 # API
 
 # i18n
+
+# DB
 
