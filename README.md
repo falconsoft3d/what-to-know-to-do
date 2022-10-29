@@ -1,4 +1,4 @@
-# what-to-know-to-do
+# What to know to do
 
 # Crud
 1- NextJS
