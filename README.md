@@ -64,7 +64,34 @@ input : {
  
  # Library
  5- React Native
+
  - https://styled-components.com/
+ ```
+ import styled from 'styled-components/native';
+
+
+  export default function App() {
+  return (
+    <Container>
+      <Text>Open up App.js to start working on your app!</Text>
+    </Container>
+  );
+  }
+ 
+  const Container = styled.View`
+  flex: 1;
+  background-color: white;
+  align-items: center;
+  justify-content: center;
+`;
+
+
+const Text = styled.Text`
+  font-size: 18px;
+  color: blue;
+  font-weight: 500;
+`;
+  ```
  - https://akveo.github.io/react-native-ui-kitten/
 
 
