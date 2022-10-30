@@ -10,7 +10,7 @@
 4- Django
 
 5- React Native
-- Curso Udemy login : https://github.com/expo-spain/udemy-birthday/tree/58ca14a6583110d6a3ecce1497b161f101c8824f
+- Curso Udemy login : https://github.com/expo-spain/udemy-birthday/tree/58ca14a6583110d6a3ecce1497b161f101c8824f [Firebase]
 
 # Auth
 
