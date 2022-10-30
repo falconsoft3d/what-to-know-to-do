@@ -28,6 +28,9 @@
 
 # API
 
+5- React Native
+- API REST Curso Youtube : https://github.com/expo-spain/react-native-coingecko/blob/main/App.js
+
 # i18n
 
 # DB
