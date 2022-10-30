@@ -37,3 +37,15 @@
 5- React Native
 - https://github.com/expo-spain/youtube-async-storage/blob/main/App.js [ async-storage ]
 
+# CSS for react Native
+1- NextJS
+```
+ <TextInput style={[styles.input, styles.error]}
+            placeholder="Name"
+            placeholderTextColor="#969696"
+            autoCapitalize='none'
+            onChange={(e) => setName( e.nativeEvent.text)}
+      />
+ ```
+
+
