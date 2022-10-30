@@ -34,4 +34,6 @@
 # i18n
 
 # DB
+5- React Native
+- https://github.com/expo-spain/youtube-async-storage/blob/main/App.js [ async-storage ]
 
