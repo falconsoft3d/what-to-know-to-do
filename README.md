@@ -38,7 +38,7 @@
 - https://github.com/expo-spain/youtube-async-storage/blob/main/App.js [ async-storage ]
 
 # CSS for react Native
-1- NextJS
+## TextInput
 ```
  <TextInput style={[styles.input, styles.error]}
             placeholder="Name"
@@ -46,6 +46,20 @@
             autoCapitalize='none'
             onChange={(e) => setName( e.nativeEvent.text)}
       />
+      
+      
+input : {
+  height: 50,
+  color: '#fff',
+  width: '80%',
+  marginBottom: 25,
+  backgroundColor: '#1e3040',
+  paddingHorizontal: 20,
+  borderRadius: 50,
+  fontSize: 18,
+  borderWidth: 1,
+  borderColor: '#1e3040'
+},
  ```
 
 
